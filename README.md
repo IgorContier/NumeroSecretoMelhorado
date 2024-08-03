@@ -1,0 +1,1 @@
+I'm just starting my studies in programming logic, I'm starting with JavaScript and I'm trying to do my best from the beginning, this is my first game and I've given it my all to handle errors and make it have all the features I'd like, enjoy.
